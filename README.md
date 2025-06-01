@@ -5,7 +5,7 @@ This project predicts customer churn using a logistic regression model. The goal
 ---
 
 ##  Dataset
-- **Source**: [Kaggle - Bank Customer Churn Prediction]([https://www.kaggle.com/datasets/shubh27/bank-customer-churn-prediction](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction))
+- **Source**: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
 - **Records**: ~10,000 customers
 - **Target**: `Exited` (1 = churned, 0 = retained)
 
